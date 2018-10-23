@@ -50,7 +50,7 @@ public class Car {
 	
 	@Override
 	public String toString() {
-		return "Make:" + make + " Model:" + model + " Year:" + year + " Price:$" + price;
+		return "{NEW}  Make:" + make + " | " + " Model:" + model + " | " + " Year:" + year + " | " + " Price:$" + price;
 	}
 	
 
